@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...DotnetCore, C#, WebAPI, Integrations and Amazon Web Services (AWS). Learner Angular and React Frontend
+- 🔭 I’m currently working on ...DotnetCore, C#, WebAPI, Integrations and Amazon Web Services (AWS). Learner Angular and React
 
 ## &#x270d; Blog & Writing
 
@@ -7,11 +7,12 @@ Apart from coding, I also write some articles - you can find my articles on [Med
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-aws-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Cloud-aws-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-sqlserver-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
