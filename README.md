@@ -5,6 +5,8 @@
 
 Apart from coding, I also write some articles - you can find my articles on [Medium](https://sunil-kumar-60226.medium.com/) and [DEV.to](https://dev.to/sunilkumarmedium).
 
+**Disclaimer: The views/contents shared/authored in this site are mine and not of my employer.**
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
