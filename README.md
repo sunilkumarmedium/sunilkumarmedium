@@ -1,5 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...DotnetCore, C#, WebAPI, Integrations and Amazon Web Services (AWS). Learner Angular and React
+- 🔭 I’m currently working on ...DotnetCore, C#, WebAPI, Integrations and Amazon Web Services (AWS). FrontEnd Angular and React
+
+- Microsoft software development stack (.Net Framework and .Net Core)
+- Distributed Architecture
+- Microservices Architecture
+- Delivery and Designing technical solutions
+
+<a href="https://www.linkedin.com/in/sunil-kumar-boda"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" /></a> &nbsp; <a href="https://medium.com/@sunil-kumar-60226"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" width="32px" /></a> &nbsp; <a href="mailto:sunilkumar.medium@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" /></a>
 
 ## &#x270d; Blog & Writing
 
