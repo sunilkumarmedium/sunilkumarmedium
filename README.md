@@ -15,19 +15,26 @@ Apart from coding, I also write some articles - you can find my articles on [Med
 **Disclaimer: The views/contents shared/authored in this site are mine and not of my employer.**
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+### Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 ![](https://img.shields.io/badge/Code-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=swagger&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://img.shields.io/badge/Cloud-aws-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-sqlserver-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+
 
 ![SunilKumar github stats](https://github-readme-stats.vercel.app/api?username=sunilkumarmedium&show_icons=true&theme=radical)
 <!--
